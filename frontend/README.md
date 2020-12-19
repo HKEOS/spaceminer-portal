@@ -1,6 +1,6 @@
-# Scatter (eosjs2) + Clickable canvas
+# WAX Cloud Wallet + Clickable canvas
 
-Clone this repository and then `cd` into it.
+Clone this repository and then `cd` into this directory.
 
 ### Logic File: 
 [Home.vue] is where the entire Scatter logic sits for this project.
