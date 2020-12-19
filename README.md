@@ -1,1 +1,1 @@
-# spaceminer-portal
+# Treasure Hunter
